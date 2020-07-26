@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7df30959-f12c-4556-8806-1323a1dd7556" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RTQf05tYYTrPhMDhsbJM5ajI8w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Python.oops_example">
+    <configuration name="doc_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="oops_concept" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doc_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oops_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="oops_concept" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oops_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="raw_literal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="oops_concept" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/raw_literal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="record_collection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="oops_concept" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/record_collection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="record_collection_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="oops_concept" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/record_collection_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.oops_example" />
+        <item itemvalue="Python.record_collection_1" />
+        <item itemvalue="Python.record_collection" />
+        <item itemvalue="Python.doc_string" />
+        <item itemvalue="Python.raw_literal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7df30959-f12c-4556-8806-1323a1dd7556" name="Default Changelist" comment="" />
+      <created>1569688707879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569688707879</updated>
+      <workItem from="1569688729186" duration="15167000" />
+      <workItem from="1570968482254" duration="131000" />
+      <workItem from="1570968750782" duration="3239000" />
+      <workItem from="1572504204347" duration="162000" />
+      <workItem from="1572655374412" duration="11881000" />
+      <workItem from="1572782973020" duration="5816000" />
+      <workItem from="1575680538662" duration="16000" />
+      <workItem from="1575935422036" duration="28463000" />
+      <workItem from="1576984360488" duration="739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1024" y="363" width="565" height="600" key="#xdebugger.evaluate" timestamp="1576330036005">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state x="1015" y="358" width="735" height="600" key="#xdebugger.evaluate/0.27.1837.981@0.27.1837.981" timestamp="1576311319909" />
+    <state x="1024" y="363" width="565" height="600" key="#xdebugger.evaluate/0.27.1853.997@0.27.1853.997" timestamp="1576330036005" />
+    <state width="1853" height="320" key="GridCell.Tab.0.bottom" timestamp="1576980215736">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1837" height="320" key="GridCell.Tab.0.bottom/0.27.1837.981@0.27.1837.981" timestamp="1576311057160" />
+    <state width="1853" height="320" key="GridCell.Tab.0.bottom/0.27.1853.997@0.27.1853.997" timestamp="1576980215736" />
+    <state width="1853" height="320" key="GridCell.Tab.0.center" timestamp="1576980215732">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1837" height="320" key="GridCell.Tab.0.center/0.27.1837.981@0.27.1837.981" timestamp="1576311057154" />
+    <state width="1853" height="320" key="GridCell.Tab.0.center/0.27.1853.997@0.27.1853.997" timestamp="1576980215732" />
+    <state width="1853" height="320" key="GridCell.Tab.0.left" timestamp="1576980215731">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1837" height="320" key="GridCell.Tab.0.left/0.27.1837.981@0.27.1837.981" timestamp="1576311057143" />
+    <state width="1853" height="320" key="GridCell.Tab.0.left/0.27.1853.997@0.27.1853.997" timestamp="1576980215731" />
+    <state width="1853" height="320" key="GridCell.Tab.0.right" timestamp="1576980215733">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1837" height="320" key="GridCell.Tab.0.right/0.27.1837.981@0.27.1837.981" timestamp="1576311057159" />
+    <state width="1853" height="320" key="GridCell.Tab.0.right/0.27.1853.997@0.27.1853.997" timestamp="1576980215733" />
+    <state width="1853" height="320" key="GridCell.Tab.1.bottom" timestamp="1576980215742">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1837" height="320" key="GridCell.Tab.1.bottom/0.27.1837.981@0.27.1837.981" timestamp="1576311058251" />
+    <state width="1853" height="320" key="GridCell.Tab.1.bottom/0.27.1853.997@0.27.1853.997" timestamp="1576980215742" />
+    <state width="1853" height="320" key="GridCell.Tab.1.center" timestamp="1576980215739">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1837" height="320" key="GridCell.Tab.1.center/0.27.1837.981@0.27.1837.981" timestamp="1576311058249" />
+    <state width="1853" height="320" key="GridCell.Tab.1.center/0.27.1853.997@0.27.1853.997" timestamp="1576980215739" />
+    <state width="1853" height="320" key="GridCell.Tab.1.left" timestamp="1576980215738">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1837" height="320" key="GridCell.Tab.1.left/0.27.1837.981@0.27.1837.981" timestamp="1576311058247" />
+    <state width="1853" height="320" key="GridCell.Tab.1.left/0.27.1853.997@0.27.1853.997" timestamp="1576980215738" />
+    <state width="1853" height="320" key="GridCell.Tab.1.right" timestamp="1576980215740">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1837" height="320" key="GridCell.Tab.1.right/0.27.1837.981@0.27.1837.981" timestamp="1576311058250" />
+    <state width="1853" height="320" key="GridCell.Tab.1.right/0.27.1853.997@0.27.1853.997" timestamp="1576980215740" />
+    <state x="582" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1576986115311">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state x="582" y="353" key="com.intellij.ide.util.TipDialog/0.27.1853.997@0.27.1853.997" timestamp="1576986115311" />
+    <state x="586" y="244" width="678" height="690" key="search.everywhere.popup" timestamp="1576336495320">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state x="581" y="241" width="672" height="678" key="search.everywhere.popup/0.27.1837.981@0.27.1837.981" timestamp="1576283406906" />
+    <state x="586" y="244" width="678" height="690" key="search.everywhere.popup/0.27.1853.997@0.27.1853.997" timestamp="1576336495320" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/accounts.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/oops_concept$raw_literal.coverage" NAME="raw_literal Coverage Results" MODIFIED="1572696842498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oops_concept$oops.coverage" NAME="oops Coverage Results" MODIFIED="1569734016091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oops_concept$record_collection_1.coverage" NAME="record_collection_1 Coverage Results" MODIFIED="1576330041716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oops_concept$doc_string.coverage" NAME="doc_string Coverage Results" MODIFIED="1575936471386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oops_concept$oops_example.coverage" NAME="oops_example Coverage Results" MODIFIED="1576365347389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oops_concept$record_collection.coverage" NAME="record_collection Coverage Results" MODIFIED="1576327940713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/oops_concept$accounts.coverage" NAME="accounts Coverage Results" MODIFIED="1572659198854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

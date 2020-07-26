@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3958591f-fc92-4f58-ab5b-5b0a488ead0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WOtP6GX3My69Bq7GDt7cGMRESD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../connectingPostgresql" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.migrations">
+    <configuration name="duck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ExceptionHandling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/duck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excepHandling_else_finally" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ExceptionHandling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excepHandling_else_finally.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exceptionhandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ExceptionHandling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionhandling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="migrations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ExceptionHandling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/migrations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.migrations" />
+        <item itemvalue="Python.duck" />
+        <item itemvalue="Python.excepHandling_else_finally" />
+        <item itemvalue="Python.exceptionhandling" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3958591f-fc92-4f58-ab5b-5b0a488ead0d" name="Default Changelist" comment="" />
+      <created>1579032441395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579032441395</updated>
+      <workItem from="1579032443455" duration="3486000" />
+      <workItem from="1579300925589" duration="17777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="521" y="187" width="800" height="684" key="#Plugins" timestamp="1579306231126">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state x="521" y="187" width="800" height="684" key="#Plugins/0.27.1853.997@0.27.1853.997" timestamp="1579306231126" />
+    <state x="794" y="229" width="868" height="600" key="#xdebugger.evaluate" timestamp="1579369205147">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state x="794" y="229" width="868" height="600" key="#xdebugger.evaluate/0.27.1853.997@0.27.1853.997" timestamp="1579369205147" />
+    <state x="709" y="283" width="424" height="491" key="FileChooserDialogImpl" timestamp="1579396078919">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state x="709" y="283" width="424" height="491" key="FileChooserDialogImpl/0.27.1853.997@0.27.1853.997" timestamp="1579396078919" />
+    <state width="1853" height="327" key="GridCell.Tab.0.bottom" timestamp="1579410372897">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1853" height="327" key="GridCell.Tab.0.bottom/0.27.1853.997@0.27.1853.997" timestamp="1579410372897" />
+    <state width="1853" height="327" key="GridCell.Tab.0.center" timestamp="1579410372896">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1853" height="327" key="GridCell.Tab.0.center/0.27.1853.997@0.27.1853.997" timestamp="1579410372896" />
+    <state width="1853" height="327" key="GridCell.Tab.0.left" timestamp="1579410372894">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1853" height="327" key="GridCell.Tab.0.left/0.27.1853.997@0.27.1853.997" timestamp="1579410372894" />
+    <state width="1853" height="327" key="GridCell.Tab.0.right" timestamp="1579410372897">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1853" height="327" key="GridCell.Tab.0.right/0.27.1853.997@0.27.1853.997" timestamp="1579410372897" />
+    <state width="1853" height="327" key="GridCell.Tab.1.bottom" timestamp="1579410372903">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1853" height="327" key="GridCell.Tab.1.bottom/0.27.1853.997@0.27.1853.997" timestamp="1579410372903" />
+    <state width="1853" height="327" key="GridCell.Tab.1.center" timestamp="1579410372900">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1853" height="327" key="GridCell.Tab.1.center/0.27.1853.997@0.27.1853.997" timestamp="1579410372900" />
+    <state width="1853" height="327" key="GridCell.Tab.1.left" timestamp="1579410372898">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1853" height="327" key="GridCell.Tab.1.left/0.27.1853.997@0.27.1853.997" timestamp="1579410372898" />
+    <state width="1853" height="327" key="GridCell.Tab.1.right" timestamp="1579410372902">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state width="1853" height="327" key="GridCell.Tab.1.right/0.27.1853.997@0.27.1853.997" timestamp="1579410372902" />
+    <state x="415" y="160" width="1022" height="737" key="SettingsEditor" timestamp="1579322365608">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state x="415" y="160" width="1022" height="737" key="SettingsEditor/0.27.1853.997@0.27.1853.997" timestamp="1579322365608" />
+    <state x="582" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1579301138958">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state x="582" y="353" key="com.intellij.ide.util.TipDialog/0.27.1853.997@0.27.1853.997" timestamp="1579301138958" />
+    <state x="589" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1579357062763">
+      <screen x="0" y="27" width="1853" height="997" />
+    </state>
+    <state x="589" y="245" width="672" height="678" key="search.everywhere.popup/0.27.1853.997@0.27.1853.997" timestamp="1579357062763" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/excepHandling_else_finally.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/migrations.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/migrations.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ExceptionHandling$exceptionhandling.coverage" NAME="exceptionhandling Coverage Results" MODIFIED="1579035411715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$excepHandling_else_finally.coverage" NAME="excepHandling_else_finally Coverage Results" MODIFIED="1579352883953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$duck.coverage" NAME="duck Coverage Results" MODIFIED="1579367986079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ExceptionHandling$migrations.coverage" NAME="migrations Coverage Results" MODIFIED="1579369242671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

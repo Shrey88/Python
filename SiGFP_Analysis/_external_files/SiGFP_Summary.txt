@@ -1,0 +1,85 @@
+execution_date	scenario_no	scenario_description	bl_scope	tx_scope	total
+2018-03-08	Scenario 01	Remote checked-out items	5	3	8
+2018-03-08	Scenario 02	Item revision present under item revision with specification relation	0	0	0
+2018-03-08	Scenario 03	Item revision master form missing	0	2	2
+2018-03-08	Scenario 04	Presence of replica objects under locally owned objects	42	42	84
+2018-03-08	Scenario 05	Replicated in all sites without owned by any site	1	0	1
+2018-03-08	Scenario 08	Secondary object uis is null in specification relation	0	0	0
+2018-03-08	Scenario 09	IMAN files are directly pasted under item revision	0	0	0
+2018-03-08	Scenario 10	Duplicate Part Numbers	1	4	5
+2018-03-08	Scenario 11	Item master form connected to item revision	0	0	0
+2018-03-08	Scenario 16	Dual ownership	0	0	0
+2018-03-08	Scenario 17_1	SSG items owned by non SSG group	3	3	6
+2018-03-08	Scenario 17_2	EDM Data	0	0	0
+2018-03-08	Scenario 18	ERP form missing	4592	13650	18242
+2018-03-08	Scenario 20	Same bom view revision attached to multiple revision	0	0	0
+2018-03-08	Scenario 22	Original and Transformed revisions both are present	145	122	267
+2018-03-08	Scenario 23	Item master form missing on remote site	0	0	0
+2018-03-08	Scenario 27	Presence of local object under replica object	40	43	83
+2018-03-08	Scenario 29	Objects checked out at owning site	4961	5422	10383
+2018-03-08	Scenario 30	Commodity_Code and Commodity_No combination not matching Amat_Part_Number	15	2041	2056
+2018-03-08	Scenario 31	Part number blank in owning site but present in replica site	0	0	0
+2018-03-08	Scenario 33	SAVE AS/REVISE cannot be done for SSG items that do not have *.SSG owning group	1697	1207	2904
+2018-02-27	Scenario 01	Remote checked-out items	5	3	8
+2018-02-27	Scenario 02	Item revision present under item revision with specification relation	0	0	0
+2018-02-27	Scenario 03	Item revision master form missing	0	2	2
+2018-02-27	Scenario 04	Presence of replica objects under locally owned objects	43	42	85
+2018-02-27	Scenario 05	Replicated in all sites without owned by any site	1	0	1
+2018-02-27	Scenario 08	Secondary object uis is null in specification relation	0	0	0
+2018-02-27	Scenario 09	IMAN files are directly pasted under item revision	0	0	0
+2018-02-27	Scenario 10	Duplicate Part Numbers	1	0	1
+2018-02-27	Scenario 11	Item master form connected to item revision	0	0	0
+2018-02-27	Scenario 16	Dual ownership	0	0	0
+2018-02-27	Scenario 17_1	SSG items owned by non SSG group	3	3	6
+2018-02-27	Scenario 17_2	EDM Data	0	0	0
+2018-02-27	Scenario 18	ERP form missing	4592	13650	18242
+2018-02-27	Scenario 20	Same bom view revision attached to multiple revision	0	0	0
+2018-02-27	Scenario 22	Original and Transformed revisions both are present	145	122	267
+2018-02-27	Scenario 23	Item master form missing on remote site	0	0	0
+2018-02-27	Scenario 27	Presence of local object under replica object	41	43	84
+2018-02-27	Scenario 29	Objects checked out at owning site	4960	5423	10383
+2018-02-27	Scenario 30	Commodity_Code and Commodity_No combination not matching Amat_Part_Number	15	2041	2056
+2018-02-27	Scenario 31	Part number blank in owning site but present in replica site	0	0	0
+2018-02-27	Scenario 33	SAVE AS/REVISE cannot be done for SSG items that do not have *.SSG owning group	4236	1210	5446
+2018-02-09	Scenario 01	Remote checked-out items	3	3	6
+2018-02-09	Scenario 02	Item revision present under item revision with specification relation	0	0	0
+2018-02-09	Scenario 03	Item revision master form missing	0	2	2
+2018-02-09	Scenario 04	Presence of replica objects under locally owned objects	46	47	93
+2018-02-09	Scenario 05	Replicated in all sites without owned by any site	1	0	1
+2018-02-09	Scenario 08	Secondary object uis is null in specification relation	0	0	0
+2018-02-09	Scenario 09	IMAN files are directly pasted under item revision	0	0	0
+2018-02-09	Scenario 10	Duplicate Part Numbers	1	2	3
+2018-02-09	Scenario 11	Item master form connected to item revision	0	0	0
+2018-02-09	Scenario 16	Dual ownership	0	0	0
+2018-02-09	Scenario 17_1	SSG items owned by non SSG group	3	3	6
+2018-02-09	Scenario 17_2	EDM Data	0	0	0
+2018-02-09	Scenario 18	ERP form missing	4593	13649	18242
+2018-02-09	Scenario 20	Same bom view revision attached to multiple revision	0	0	0
+2018-02-09	Scenario 22	Original and Transformed revisions both are present	145	122	267
+2018-02-09	Scenario 23	Item master form missing on remote site	0	0	0
+2018-02-09	Scenario 27	Presence of local object under replica object	44	48	92
+2018-02-09	Scenario 29	Objects checked out at owning site	4962	5411	10373
+2018-02-09	Scenario 30	Commodity_Code and Commodity_No combination not matching Amat_Part_Number	0	6	6
+2018-02-09	Scenario 31	Part number blank in owning site but present in replica site	0	0	0
+2018-02-09	Scenario 33	SAVE AS/REVISE cannot be done for SSG items that do not have *.SSG owning group	0	0	0
+2018-01-03	Scenario 01	Checked-Out at a remote site	1613	1036	2649
+2018-01-03	Scenario 02	Item Revision present under another Item Revision with specification relation	5	13	18
+2018-01-03	Scenario 03	Item Revision Master Form missing	5	13	18
+2018-01-03	Scenario 04	Presence of replica object/s under locally owned Item/Item Revision	588	1036	1624
+2018-01-03	Scenario 05	Item replica in all sites; no owning site			181
+2018-01-03	Scenario 08	Secondary obj uid is null in the specification relation. 	37	6	43
+2018-01-03	Scenario 09	Iman files are directly pasted under Item Revision.	14	7	21
+2018-01-03	Scenario 10	Duplicate part numbers in Teamcenter			9
+2018-01-03	Scenario 11	Item Master Form is connected to Item Rev with Specification relation	28	27	55
+2018-01-03	Scenario 16	Items with dual site ownership			106
+2018-01-03	Scenario 17_1	A) SSG Items (TC* items) owned by Non-SSG groups; Some of these parts are in the scope	15	15	30
+2018-01-03	Scenario 17_2	B) EDM in-scope parts are owned by NON SSG groups.	13602	469816	483418
+2018-01-03	Scenario 18	Missing ERP form in Teamcenter (Utility will create such form if missing; low issue)	25648	51591	77239
+2018-01-03	Scenario 20	Same BOM view revision attached to multiple revision	0	0	0
+2018-01-03	Scenario 22	Original Revision and Transformed Revision both are present. Eg. 002 and 02 both are present	150	121	271
+2018-01-03	Scenario 23	Replica Objects without “Item Master Form” on Remote Site	250	493	743
+2018-01-03	Scenario 27	Presence of Local object/s under replica Item/Item Revision	585	1054	1639
+2018-01-03	Scenario 29	Objects checked out at owning site	36630	148400	185030
+2018-01-03	Scenario 30	CC-CN combination is not matching with AMAT PN	36	3338	3374
+2018-01-03	Scenario 31	PN blank in owning site, but replica has PN	5	3	8
+2018-01-03	Scenario 33	SAVE AS/REVISE cannot be done for SSG items that do not have *.SSG owning group	0	0	0

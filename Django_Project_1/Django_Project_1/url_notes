@@ -1,0 +1,28 @@
+we need to add new url for index path
+
+create a url object with two parameters
+    first one:  is the path that we want to match i.e. #localhost/index
+
+    second one: is the view function, url(r'^index/', views.index)
+
+Function Parameters:
+    first parameter :   r means the string is raw
+                        ^ carat means the start of the string
+
+    second parameter :  it access the index function from the view's file
+                        and to access that we need to import the module Treasuregram
+                        if this pattern (views.index) is matched then the request will sent to the view
+                        go inside the Treasuregram app, inside that look for view.py file and then
+                        call the index view function, which will send it to index view function that we wrote.
+
+
+Now if the user visits localhost/index, they will be sent to Treasuregram app's index view
+which will return http response
+
+URL Dispatcher best practices :
+    localhost/index goes to out homepage, but this is kind of ugly url
+
+In Django the best practice is to have a project URL dispatcher and an app URL dispatcher.
+right now project URL dispatcher is handling all the requests.
+we would like to funnel request for our Treasuregram app to our Treasuregram app URL dispatcher,
+so we need to create a new urls.py file in the Treasuregram folder

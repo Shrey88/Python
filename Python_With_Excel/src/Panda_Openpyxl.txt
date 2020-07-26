@@ -1,0 +1,9 @@
+Pandas and Openpyxl are powerful tools in their own right, they both have their own short comings.
+However they support integration with each other. When you use them both together, they help cover for the other's
+weaknesses.
+
+Openpyxl is great for all kinds of visualisation and basic Excel work.
+But when it comes to large datasets, its fairly slow.
+
+Pandas doesn't have to deal with the visualization and working directly with Excel as much, it can take on extremely
+large datasets and perform analysis extremely fast.

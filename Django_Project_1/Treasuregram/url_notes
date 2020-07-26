@@ -1,0 +1,7 @@
+so here we are creating the app specific url patterns
+
+url(r'^$', views.index, name='index')
+
+r'^' : pattern checks that the url has an empyt path which will go to the homepage
+
+$ terminates the regular expression

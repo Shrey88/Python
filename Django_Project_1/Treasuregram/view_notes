@@ -1,0 +1,10 @@
+the context dictionary worked for simply sending two values
+
+but what if we have complex data like name, value, nmaterial, location associated with treasure
+or bunch of treasures, how would we send it to template in a context
+
+we can use the class to store the information about the Treasure object and then use the list to store all of
+the treasure objects and we can name it treasures and then we have only one variable to put it in context
+
+
+

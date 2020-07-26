@@ -1,0 +1,38 @@
+how to perform the migration?
+
+we need to run two commands in the console
+1. python manage.py makemigrations : makes a migration file
+
+before running the migrate command we can preview what the sql command will be executed
+python manage.py sqlmigrate Treasuregram 0001
+
+then to apply the migration to database we run
+2. python manage.py migrate : applies the migration to database
+
+Now we are done with the migration we can create our Treasure model to Treasure objects and to do this we will use
+Django interactive shell
+
+we need to import our treasure model from the Treasure app models
+
+from Treasuregram.models import Treasure
+
+then we will type
+Treasure.objects.all() --> we get an empty list since we haven't created any treasure objects yet
+
+Treasure.objects.all is like a django query set. A query set is like a select statement in sql
+all the query sets start with the modelname.objects so that's like select statement in SQL
+
+Retrieving all objects in SQL it is like SELECT * FROM Treasure
+
+but in Django, it will be like Treasure.objects.all()
+
+if you want the where clause then you need to use filter in django
+Treasure.objects.filter(condition)
+
+Create a treasure object
+t = Treasure(name = 'Gold Nugget', value = 500.00, material = 'gold', location ="Curly's Creek, NM")
+
+Save Treasure object
+t.save()
+
+now we need to update our view to pull this data from our database and then pass it to the template for rendering

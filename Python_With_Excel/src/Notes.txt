@@ -1,0 +1,30 @@
+Pandas: python library used primarily for data science to examine, sort or modify data
+
+        it essentially creates a spreadsheet for us in our python code called the dataframe.
+
+        this dataframe has indexed rows and header columns that both store are called series.
+
+        the series stores all the values in the rows and columns almost like list, because both these obj are
+        iterable pandas make it easy to traverse and pick up data
+
+
+Dataframe:  we can do any kind of analysis or grouping
+
+            can be exported to Excel
+
+
+In pandas you can create dataframes or other objects in code, since we are using python with excel.
+we are only going  to look at how to create dataframes to read the files that already exist.
+
+Pandas Documentation:   pandas can read multiple types of files, this is because the data is structured in any way and you'll be able to interpret it
+
+                        we need to specify the dataframe type for the type of file we are going to read
+
+openpyxl:   if you are frequently reviewing your spreadsheets or copying and pasting to new Excel documents or working
+            to make data look good then openpyxl is the package in python that allows our code to interact directly with
+            Excel documents.
+            With openpyxl, we gain the freedom to manipulate not just the data in the spreadsheet, but the properties
+            of the spreadsheet itself. it does this by storing an Excel workbook as well as the worksheets as objects
+            that we can alter with our code.
+            Openpyxl is the most used module for dealing specifically with Excel, as it allows us to do anything from
+            styling sheets to parsing data or creating graphs.

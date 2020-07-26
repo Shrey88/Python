@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="args_kwargs" />
+    <orderEntry type="module" module-name="Challenge_More_About_Python" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="Challenge_Dictionary" />
+    <orderEntry type="module" module-name="oops_concept" />
+    <orderEntry type="module" module-name="challenge_set" />
+    <orderEntry type="module" module-name="Challenge_Range" />
+    <orderEntry type="module" module-name="Variables" />
+    <orderEntry type="module" module-name="Range" />
+    <orderEntry type="module" module-name="PythonEssential_AdvancedPython" />
+    <orderEntry type="module" module-name="ExceptionHandling" />
+    <orderEntry type="module" module-name="Challenge_Integer" />
+    <orderEntry type="module" module-name="Hello_World" />
+    <orderEntry type="module" module-name="Input_Output" />
+    <orderEntry type="module" module-name="Dictionaries_And_Sets" />
+    <orderEntry type="module" module-name="Challenge_List" />
+    <orderEntry type="module" module-name="Modules_Functions" />
+    <orderEntry type="module" module-name="Challenge_shelve" />
+    <orderEntry type="module" module-name="Scope_Namespace" />
+    <orderEntry type="module" module-name="Python_With_Excel" />
+    <orderEntry type="module" module-name="reduce_function" />
+    <orderEntry type="module" module-name="Python_Programming_Efficiently" />
+    <orderEntry type="module" module-name="filter_function_intro" />
+    <orderEntry type="module" module-name="connectingPostgresql" />
+    <orderEntry type="module" module-name="HelloWorld" />
+    <orderEntry type="module" module-name="List" />
+    <orderEntry type="module" module-name="polymorphism" />
+    <orderEntry type="module" module-name="Django_Project_1" />
+    <orderEntry type="module" module-name="date_datetime" />
+    <orderEntry type="module" module-name="Exchange_Chart" />
+    <orderEntry type="module" module-name="Functions" />
+    <orderEntry type="module" module-name="Intro_Python_Remaster" />
+    <orderEntry type="module" module-name="challenge_canvas" />
+    <orderEntry type="module" module-name="Iterator" />
+    <orderEntry type="module" module-name="Challenge_Input_Output" />
+    <orderEntry type="module" module-name="Challenge_Iterator" />
+    <orderEntry type="module" module-name="map" />
+    <orderEntry type="module" module-name="More_About_Python" />
+    <orderEntry type="module" module-name="composition_aggregation" />
+    <orderEntry type="module" module-name="SiGFP_Analysis" />
+    <orderEntry type="module" module-name="named_tuples" />
+    <orderEntry type="module" module-name="Challenge_Modules_Function" />
+    <orderEntry type="module" module-name="Challenge_Print_Text" />
+    <orderEntry type="module" module-name="Challenge_tuple" />
+    <orderEntry type="module" module-name="Flow_Control" />
+    <orderEntry type="module" module-name="Progrma_Flow_Control" />
+    <orderEntry type="module" module-name="Challenge_tkinter" />
+    <orderEntry type="module" module-name="Inheritance" />
+    <orderEntry type="module" module-name="Challenge_Program_Flow_Control" />
+    <orderEntry type="module" module-name="blackjack" />
+    <orderEntry type="module" module-name="Tuples" />
+    <orderEntry type="module" module-name="Tuples" />
+    <orderEntry type="module" module-name="AbstractBaseClass" />
+    <orderEntry type="module" module-name="Advanced_Features" />
+  </component>
+</module>

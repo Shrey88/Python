@@ -1,0 +1,8 @@
+Like templates Django automatically looks for static files in directory name static in your app
+
+static directory is for storing the static files like CSS, Javascript and static images
+
+we can also add CSS framework like Bootstrap to do some style work
+
+we will make sure that minifield bootstrap file is in our static folder and then we will link to template just like
+we did the style.css file

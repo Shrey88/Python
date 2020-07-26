@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AbstractBaseClass/.idea/AbstractBaseClass.iml" filepath="$PROJECT_DIR$/../AbstractBaseClass/.idea/AbstractBaseClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Advanced_Features/.idea/Advanced_Features.iml" filepath="$PROJECT_DIR$/../Advanced_Features/.idea/Advanced_Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_Dictionary/Challenge_Dictionary.iml" filepath="$PROJECT_DIR$/../Challenge_Dictionary/Challenge_Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_Input_Output/Challenge_Input_Output.iml" filepath="$PROJECT_DIR$/../Challenge_Input_Output/Challenge_Input_Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_Integer/Challenge_Integer.iml" filepath="$PROJECT_DIR$/../Challenge_Integer/Challenge_Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_Iterator/Challenge_Iterator.iml" filepath="$PROJECT_DIR$/../Challenge_Iterator/Challenge_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_List/Challenge_List.iml" filepath="$PROJECT_DIR$/../Challenge_List/Challenge_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_Modules_Function/.idea/Challenge_Modules_Function.iml" filepath="$PROJECT_DIR$/../Challenge_Modules_Function/.idea/Challenge_Modules_Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_More_About_Python/Challenge_More_About_Python.iml" filepath="$PROJECT_DIR$/../Challenge_More_About_Python/Challenge_More_About_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_Print_Text/Challenge_Print_Text.iml" filepath="$PROJECT_DIR$/../Challenge_Print_Text/Challenge_Print_Text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_Program_Flow_Control/Challenge_Program_Flow_Control.iml" filepath="$PROJECT_DIR$/../Challenge_Program_Flow_Control/Challenge_Program_Flow_Control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_Range/Challenge_Range.iml" filepath="$PROJECT_DIR$/../Challenge_Range/Challenge_Range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_shelve/.idea/Challenge_shelve.iml" filepath="$PROJECT_DIR$/../Challenge_shelve/.idea/Challenge_shelve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_tkinter/.idea/Challenge_tkinter.iml" filepath="$PROJECT_DIR$/../Challenge_tkinter/.idea/Challenge_tkinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Challenge_tuple/Challenge_tuple.iml" filepath="$PROJECT_DIR$/../Challenge_tuple/Challenge_tuple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dictionaries_And_Sets/Dictionaries_And_Sets.iml" filepath="$PROJECT_DIR$/../Dictionaries_And_Sets/Dictionaries_And_Sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Django_Project_1/.idea/Django_Project_1.iml" filepath="$PROJECT_DIR$/../Django_Project_1/.idea/Django_Project_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExceptionHandling/.idea/ExceptionHandling.iml" filepath="$PROJECT_DIR$/../ExceptionHandling/.idea/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exchange_Chart/.idea/Exchange_Chart.iml" filepath="$PROJECT_DIR$/../Exchange_Chart/.idea/Exchange_Chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flow_Control/Flow_Control.iml" filepath="$PROJECT_DIR$/../Flow_Control/Flow_Control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Functions/.idea/Functions.iml" filepath="$PROJECT_DIR$/../Functions/.idea/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hello_World/Hello_World.iml" filepath="$PROJECT_DIR$/../Hello_World/Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" filepath="$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Input_Output/Input_Output.iml" filepath="$PROJECT_DIR$/../Input_Output/Input_Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Intro_Python_Remaster/.idea/Intro_Python_Remaster.iml" filepath="$PROJECT_DIR$/../Intro_Python_Remaster/.idea/Intro_Python_Remaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Iterator/Iterator.iml" filepath="$PROJECT_DIR$/../Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../List/List.iml" filepath="$PROJECT_DIR$/../List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules_Functions/.idea/Modules_Functions.iml" filepath="$PROJECT_DIR$/../Modules_Functions/.idea/Modules_Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../More_About_Python/More_About_Python.iml" filepath="$PROJECT_DIR$/../More_About_Python/More_About_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Progrma_Flow_Control/Progrma_Flow_Control.iml" filepath="$PROJECT_DIR$/../Progrma_Flow_Control/Progrma_Flow_Control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonEssential_AdvancedPython/.idea/PythonEssential_AdvancedPython.iml" filepath="$PROJECT_DIR$/../PythonEssential_AdvancedPython/.idea/PythonEssential_AdvancedPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Programming_Efficiently/.idea/Python_Programming_Efficiently.iml" filepath="$PROJECT_DIR$/../Python_Programming_Efficiently/.idea/Python_Programming_Efficiently.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_With_Excel/.idea/Python_With_Excel.iml" filepath="$PROJECT_DIR$/../Python_With_Excel/.idea/Python_With_Excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Range/Range.iml" filepath="$PROJECT_DIR$/../Range/Range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scope_Namespace/.idea/Scope_Namespace.iml" filepath="$PROJECT_DIR$/../Scope_Namespace/.idea/Scope_Namespace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SiGFP_Analysis/.idea/SiGFP_Analysis.iml" filepath="$PROJECT_DIR$/../SiGFP_Analysis/.idea/SiGFP_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tuples/Tuples.iml" filepath="$PROJECT_DIR$/../Tuples/Tuples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Variables/Variables.iml" filepath="$PROJECT_DIR$/../Variables/Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/any_all_functions.iml" filepath="$PROJECT_DIR$/.idea/any_all_functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../args_kwargs/.idea/args_kwargs.iml" filepath="$PROJECT_DIR$/../args_kwargs/.idea/args_kwargs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../blackjack/.idea/blackjack.iml" filepath="$PROJECT_DIR$/../blackjack/.idea/blackjack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../challenge_canvas/.idea/challenge_canvas.iml" filepath="$PROJECT_DIR$/../challenge_canvas/.idea/challenge_canvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../challenge_set/challenge_set.iml" filepath="$PROJECT_DIR$/../challenge_set/challenge_set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../composition_aggregation/.idea/composition_aggregation.iml" filepath="$PROJECT_DIR$/../composition_aggregation/.idea/composition_aggregation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../connectingPostgresql/.idea/connectingPostgresql.iml" filepath="$PROJECT_DIR$/../connectingPostgresql/.idea/connectingPostgresql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../date_datetime/.idea/date_datetime.iml" filepath="$PROJECT_DIR$/../date_datetime/.idea/date_datetime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../filter_function_intro/.idea/filter_function_intro.iml" filepath="$PROJECT_DIR$/../filter_function_intro/.idea/filter_function_intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../map/.idea/map.iml" filepath="$PROJECT_DIR$/../map/.idea/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../named_tuples/.idea/named_tuples.iml" filepath="$PROJECT_DIR$/../named_tuples/.idea/named_tuples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oops_concept/.idea/oops_concept.iml" filepath="$PROJECT_DIR$/../oops_concept/.idea/oops_concept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../polymorphism/.idea/polymorphism.iml" filepath="$PROJECT_DIR$/../polymorphism/.idea/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reduce_function/.idea/reduce_function.iml" filepath="$PROJECT_DIR$/../reduce_function/.idea/reduce_function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test/.idea/test.iml" filepath="$PROJECT_DIR$/../test/.idea/test.iml" />
+    </modules>
+  </component>
+</project>

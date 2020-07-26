@@ -1,0 +1,28 @@
+In the template, we can access a variable from the context by surrounding it with {{}}, which is the part
+of the Django template language.
+
+we can access the values in the context by their keys in the template.
+
+during the rendering, all of the {{variables}} are replaced with their values, which are looked up in the context.
+
+how do we display the HTML for each object in the treasures list?
+{% for treasure in treasures %}
+        <p>{{ treasure.name }}</p>
+        <p>{{ treasure.value }}</p>
+{% endfor %}
+we can create a for loop similar to Python code using tags
+the endfor tag tells Django where the for block ends.
+
+how to add the if condition?
+{% if treasure.value > 0 %}
+    {{ treasure.value }}</p>
+{% else %}
+    Unknown</p>
+{% endif %}
+
+
+in template file we need to add {% load staticfiles %} to make the static files available to the template
+we need to link our stylesheet
+<link rel="stylesheet" type="text/css" href="{% static 'style.css' %}" />
+this tells django to load the style.css file from the static folder.
+
